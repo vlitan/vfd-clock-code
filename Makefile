@@ -1,6 +1,6 @@
 #this makefile works only for 1 source file w/ specified name here#
 #NAME = Main#	file_name
-NAME = VFDclock.ino
+NAME = VFDclock.ino.standard
 CC = avr-gcc#	compiler
 DD = avrdude#	...
 OBC = avr-objcopy#..
